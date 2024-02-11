@@ -4,7 +4,7 @@ Approximately ten years' worth of daily weather observations from multiple Austr
 Since logistic regression is more appropriate for categorization/classification issues like forecasting if it will rain tomorrow, I'll use it. An essential first step in machine learning is determining whether a given problem is a regression or classification problem.
 
 # The following steps are followed in this project:
-1. Obtaining a real-world Kaggle dataset
+1. Obtaining a real-world Kaggle dataset (https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
 2. Exploratory data analysis and visualization
 3. Dividing a dataset into test, validation, and training sets
 4. Replacing missing values in numerical columns using imputing
